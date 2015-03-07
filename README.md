@@ -1,12 +1,6 @@
 
-# Code_Code_Code
+# Code\_Code\_Code
 
-I have no idea.
+This is no longer being developed
+because I no longer need it.
 
-## Installation
-
-    gem 'code_code_code'
-
-## Usage
-
-Not coming any time soon.
